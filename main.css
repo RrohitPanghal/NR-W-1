@@ -3,7 +3,7 @@
     padding: 0;
 }
 .main{
-    width: 100%;
+    width: 100vw;
     background: linear-gradient(to top, rgb(0,0,0,0.5)50%, rgb(0,0,0,0.5)50%), url(1img.jpg);
     background-position: center;
     background-size: cover;
